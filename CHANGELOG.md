@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added 
+
+- Add support for iOS WKWebView
+
+### Changed
+
+### Removed
+
+### Fixed
+
+## [Unreleased]
+
 ### Added
 
 - Add the Messaging section in FAQs to describe how to receive messages
